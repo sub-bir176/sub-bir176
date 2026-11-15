@@ -11,12 +11,13 @@ I'm a Computer Science & Engineering graduate and creative technologist based in
 
 ---
 
-#### 🚀 Featured Projects
-* **[Project Name](#)** — *One-sentence description of an AI workflow or n8n automation.*
-* **[Project Name](#)** — *One-sentence description of a Python script or generative media tool.*
+#### 🌱 Current Focus
+* Building automated AI workflows and containerized tools using **n8n** and **Docker**.
+* Developing generative video and audio storytelling pipelines.
+* Publishing my first open-source scripts and automation templates here soon.
 
 ---
 
 #### 📫 Connect
-* **Portfolio / Socials:** [Link](#)
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/sabbirahmed176](https://www.linkedin.com/in/sabbirahmed176)
+* **Email:** sab311238@gmail.com
